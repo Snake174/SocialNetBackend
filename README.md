@@ -1,6 +1,11 @@
 # JavaproTeams37Backend 
 
 
+## Backend часть для социальной сети
+
+- Java 11
+- PostgreSQL 12.14
+
 
 ## Getting started
 
